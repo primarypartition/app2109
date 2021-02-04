@@ -6,6 +6,7 @@
 
 > https://developer.mozilla.org/en-US/
 
+
 ## CSS
 
 > https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
@@ -27,6 +28,27 @@
 > https://fonts.google.com/
 
 > https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+> https://bulma.io/
+
+
+## JS
+
+> http://latentflip.com/loupe
+
+> https://www.tvmaze.com/api
+
+> https://icanhazdadjoke.com/api
+
+> https://www.cryptonator.com/api/
+
+> https://github.com/axios/axios
+
+> https://www.postman.com/downloads/
+
+> https://www.json.org/json-en.html
+
+> https://jsonformatter.curiousconcept.com/
 
 
 # Tools
