@@ -1,0 +1,107 @@
+```
+> db;
+
+> show databases;
+
+> use db_name
+
+> show dbs;
+
+> db.col_name.insertOne({
+    name: "puppy",
+    age: 2
+}); 
+
+> show collections;
+
+> db.col_name.find();
+
+> db.col_name.insertMany([{
+    name: "puppy",
+    age: 2
+},
+{ 
+    name: "kat",
+    age: 4
+}]); 
+
+> db.col_name.insert([{
+    name: "puppy",
+    age: 2
+},
+{
+    name: "kat",
+    age: 4
+}]);
+
+> db.col_name.find({age: 2});
+
+> db.col_name.findOne({age: 2});
+
+> db.col_name.findOne({});
+
+> db.col_name.updateOne({name: "kat"}, {
+    $set: { age: 10 }
+});
+
+> db.col_name.updateMany({name: "kat"}, {
+    $set: { age: 10 }
+});
+
+>  db.col_name.updateMany({name: "kat"}, {
+    $set: { age: 10 },
+    $currentDate: { lastModified: true }
+});
+
+> db.col_name.replaceOne({name: "kat"}, {
+    $set: { age: 10 },
+    $currentDate: { lastModified: true }
+});
+
+> db.col_name.deleteOne({name: "kat"});
+
+> db.col_name.deleteMany({age:2});
+
+> db.col_name.deleteMany({});
+
+> db.col_name.deleteOne({name: "kat", age: 2});
+
+> db.col_name.find({'child.age': 2});
+
+> db.col_name.find({
+    'child.age': { $gt: 2 }
+});
+
+> db.col_name.find({
+    'child.age': { $gte: 2 }
+});
+
+> db.col_name.find({
+    'child.age': { $lte: 2 }
+});
+
+> db.col_name.find({
+    'child.age': { $lt: 2 }
+});
+
+> db.col_name.find({
+    color: { $in: ['red', 'green', 'blue'] }
+});
+
+> db.col_name.find({
+    'age': { $ne: 2 }
+});
+
+> db.col_name.find({
+    color: { $nin: ['red', 'green', 'blue'] }
+});
+
+> db.col_name.find({
+    $or: [{color: { $nin: ['red', 'green', 'blue']}, {age: { $eq: 2 }}]
+});
+
+> db.col_name.find({
+    $and: [{color: { $nin: ['red', 'green', 'blue']}, {age: { $eq: 2 }}]
+});
+
+```

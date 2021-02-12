@@ -61,3 +61,10 @@
 
 # Database and Mongo
 
+> https://www.mongodb.com/3
+
+> https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+> https://zarkom.net/blogs/how-to-install-mongodb-for-development-in-windows-3328
+
+> https://mongoosejs.com/
