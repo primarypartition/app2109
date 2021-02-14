@@ -35,6 +35,14 @@
 
 > https://github.com/dkhd/node-group-chat
 
+> https://github.com/expressjs/morgan
+
+> https://getbootstrap.com/
+
+> https://github.com/JacksonTian/ejs-mate
+
+> https://joi.dev/api/?v=17.4.0
+
 
 # Express
 
@@ -68,3 +76,4 @@
 > https://zarkom.net/blogs/how-to-install-mongodb-for-development-in-windows-3328
 
 > https://mongoosejs.com/
+
