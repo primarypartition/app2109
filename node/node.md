@@ -66,6 +66,14 @@
 
 > https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
+> https://www.npmjs.com/package/cookie-parser
+
+> https://www.freeformatter.com/hmac-generator.html
+
+> https://github.com/jaredhanson/connect-flash
+
+> https://www.npmjs.com/package/express-session
+
 
 # Database and Mongo
 
@@ -76,4 +84,3 @@
 > https://zarkom.net/blogs/how-to-install-mongodb-for-development-in-windows-3328
 
 > https://mongoosejs.com/
-
