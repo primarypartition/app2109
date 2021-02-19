@@ -74,6 +74,14 @@
 
 > https://www.npmjs.com/package/express-session
 
+> https://github.com/kelektiv/node.bcrypt.js
+
+> http://www.passportjs.org/
+
+> https://github.com/jaredhanson/passport-local
+
+> https://github.com/saintedlama/passport-local-mongoose
+
 
 # Database and Mongo
 
