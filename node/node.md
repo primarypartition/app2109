@@ -84,6 +84,32 @@
 
 > https://github.com/LunarLogic/starability
 
+> https://cloudinary.com/documentation/image_transformations
+
+> https://cloudinary.com/
+
+> https://github.com/expressjs/multer
+
+> https://github.com/motdotla/dotenv 
+
+> https://www.npmjs.com/package/bs-custom-file-input
+
+> https://www.mapbox.com/
+
+> https://github.com/mapbox/mapbox-sdk-js/blob/main/docs/services.md#geocoding
+
+> https://docs.mapbox.com/mapbox-gl-js/api/
+
+> https://docs.mapbox.com/mapbox-gl-js/example/cluster/
+
+> https://helmetjs.github.io/
+
+> https://www.npmjs.com/package/sanitize-html
+
+> https://xss-game.appspot.com/
+
+> https://www.npmjs.com/package/express-mongo-sanitize
+
 
 # Database and Mongo
 
@@ -94,3 +120,31 @@
 > https://zarkom.net/blogs/how-to-install-mongodb-for-development-in-windows-3328
 
 > https://mongoosejs.com/
+
+
+# Deployment
+
+> https://www.mongodb.com/cloud 
+
+> https://www.heroku.com/
+
+> https://www.npmjs.com/package/connect-mongo
+
+> heroku login
+
+> heroku create
+
+> git remote -v
+
+> git add .
+
+> git commit -m "deployment"
+
+> git push heroku master
+
+> heroku logs --tails
+
+> heroku config:set KEY=value
+
+> heroku restart
+
